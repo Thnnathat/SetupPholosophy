@@ -1,0 +1,14 @@
+tensorflow
+tensorflow-cpu
+keras
+opencv-python
+matplotlib
+pandas
+numpy
+pydotplus
+graphviz
+scikit-plot
+seaborn
+statsmodels
+xgboost
+gensim
